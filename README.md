@@ -10,6 +10,7 @@ Deployment on AWS
 install flask and mongoDB
 Run the python files from the terminal
 Use Visual Studio Code
+Host app on AWS
 
 # Developer Instructions
 Create another folder within your project folder for the Html file.
